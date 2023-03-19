@@ -166,6 +166,7 @@ section{
     border-radius: 10%;
     margin: 10px 10px;
     color: black;
+    overflow: hidden;
 }
 
 .a-info{
@@ -179,7 +180,6 @@ section{
 
 .card img{
     width: 100%;
-    border-radius: 10% 10% 0 0;
 }
 
 .card h2{
