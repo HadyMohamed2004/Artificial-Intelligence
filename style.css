@@ -222,6 +222,7 @@ footer{
     align-items: center;
     font-weight: 600;
     background-color: aliceblue;
+    padding: 5px 0;
 }
 
 
@@ -272,7 +273,6 @@ footer{
 
     footer p{
         font-size: 12px;
-        padding: 5px 0;
     }
 
     .a-info {
