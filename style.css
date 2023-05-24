@@ -58,7 +58,7 @@ section{
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
-    min-height: 100vh;
+    min-height: 88vh;
 }
 
 .welcome{
@@ -226,18 +226,19 @@ footer{
 }
 
 
-@media (max-width: 650px) {
+@media (max-width: 850px) {
     * {
-        font-size: 6px;
+        font-size: 10px;
     }
 
     .main{
-        height: 60vh;
+        height: 100vh;
         flex-direction: column;
+        font-size: 10px;
     }
 
     .main img{
-        width: 70%;
+        width: 75%;
         padding: 5px 0;
     }
 
@@ -246,7 +247,7 @@ footer{
     }
 
     section {
-        padding: 20px 20px;
+        padding: 350px 20px;
     }
 
     nav a {
